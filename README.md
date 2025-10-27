@@ -10,7 +10,7 @@ Customer Transaction Patterns: Analysis of buying patterns, frequency, and spend
 Strategic Growth Opportunities: Fact-based suggestions on how to sustain top-line growth and optimize operating productivity.
 
 
-Data Structure & Initial ChecksMaven Roasters' transaction database as seen below consists of a single table with detailed point-of-sale records, containing a total of 135,116 transaction records across six months (January-June 2023).
+Data Structure & Initial ChecksMaven Roasters' transaction database as seen below consists of a single table with detailed point-of-sale records, containing a total of 149,116 transaction records across six months (January-June 2023).
 
 <img width="291" height="389" alt="image" src="https://github.com/user-attachments/assets/d6dd1634-e069-45a1-9ffb-08e6c4ba88b5" />
 
