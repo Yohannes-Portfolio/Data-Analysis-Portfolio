@@ -16,3 +16,34 @@ Data Structure & Initial ChecksMaven Roasters' transaction database as seen belo
 
 
 Before analysis was begun data cleaning operations involved the elimination of duplicate transactions, the resolution of null fields in non-key fields, and date/range time validation to ensure consistency in the data.
+
+
+Deep Dive Insights
+
+
+Finding 1: Revenue Is Highly Concentrated in Morning Hours
+
+The morning window from 8-11am generates 49% of total daily revenue—nearly half the business occurs in just four hours. The peak hour alone (10am) contributes 12.7% of the entire day's revenue. This extreme concentration is consistent across the entire six-month period.
+
+This pattern is identical every single day of the week, with minimal variance between weekdays and weekends. Saturday generates $23.4K in daily revenue compared to Monday's $24.1K—just a 3% difference. The data shows that day of week has virtually no impact on revenue performance, while time of day is the dominant factor.
+
+Afternoon hours (12-5pm) contribute 34% of daily revenue but operate at significantly lower productivity, generating an average of 5.7% revenue per hour compared to the morning's 12.2% per hour. This represents a 41% productivity gap between morning and afternoon periods. Evening hours (6-8pm) contribute less than 10% of daily revenue combined.
+
+
+Finding 2: Extreme Product Concentration and Transaction Value Variation
+Three products—Barista Espresso ($94K, 13.1%), Brewed Chai Tea ($79K, 11.0%), and Hot Chocolate ($76K, 10.6%)—account for 35% of total revenue. The top 10 products generate 77% of revenue ($554K of $719K), while the remaining 40+ menu items contribute just 23%. This concentration remained stable throughout the six-month growth period.
+
+Average transaction value varies dramatically across products, with premium items generating significantly more revenue per customer. Hot Chocolate averages $8.62 per transaction while Gourmet Coffee averages $4.18 per transaction—more than a 2x difference. The overall average transaction value across all products is $4.90.
+
+Revenue growth of 94% was driven almost entirely by transaction volume growth of 106%, while average transaction value remained flat at $4.71-5.00 throughout the period. This indicates growth is coming from customer acquisition and retention rather than increased spending per customer.
+
+
+
+
+Finding 3: Coffee and Tea Dominate Category Mix
+Coffee represents 38% of total revenue ($273K) and Tea represents 28% ($201K)—together these two categories account for 66% of the business. This concentration remained consistent throughout the growth period, with both categories maintaining their revenue share even as overall volume doubled.
+Bakery items contribute 15% of revenue ($110K), Drinking Chocolate contributes 11% ($76K), and other categories make up the remaining 8%. Category composition showed minimal variance across the six months, indicating stable customer preferences.
+The coffee-heavy product mix aligns with the morning revenue concentration pattern. Coffee consumption is culturally associated with morning hours, which corresponds with the observed afternoon productivity decline.
+
+
+
