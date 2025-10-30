@@ -20,6 +20,8 @@ Before analysis was begun data cleaning operations involved the elimination of d
 
 Deep Dive Insights
 
+<img width="1539" height="225" alt="image" src="https://github.com/user-attachments/assets/ddad6b43-6b2f-4925-91c9-9de9251040a0" />
+
 
 Finding 1: Revenue Is Highly Concentrated in Morning Hours
 
@@ -31,6 +33,9 @@ Afternoon hours (12-5pm) contribute 34% of daily revenue but operate at signific
 
 
 Finding 2: Extreme Product Concentration and Transaction Value Variation
+
+<img width="1532" height="659" alt="image" src="https://github.com/user-attachments/assets/ceb2e2fd-f22f-4c8f-aca8-8830f4b7a2ed" />
+
 Three products—Barista Espresso ($94K, 13.1%), Brewed Chai Tea ($79K, 11.0%), and Hot Chocolate ($76K, 10.6%)—account for 35% of total revenue. The top 10 products generate 77% of revenue ($554K of $719K), while the remaining 40+ menu items contribute just 23%. This concentration remained stable throughout the six-month growth period.
 
 Average transaction value varies dramatically across products, with premium items generating significantly more revenue per customer. Hot Chocolate averages $8.62 per transaction while Gourmet Coffee averages $4.18 per transaction—more than a 2x difference. The overall average transaction value across all products is $4.90.
@@ -41,8 +46,14 @@ Revenue growth of 94% was driven almost entirely by transaction volume growth of
 
 
 Finding 3: Coffee and Tea Dominate Category Mix
+
+<img width="1025" height="739" alt="image" src="https://github.com/user-attachments/assets/5963626f-0ba6-4cf4-ba2b-4c3fe04bb914" />
+
+
 Coffee represents 38% of total revenue ($273K) and Tea represents 28% ($201K)—together these two categories account for 66% of the business. This concentration remained consistent throughout the growth period, with both categories maintaining their revenue share even as overall volume doubled.
+
 Bakery items contribute 15% of revenue ($110K), Drinking Chocolate contributes 11% ($76K), and other categories make up the remaining 8%. Category composition showed minimal variance across the six months, indicating stable customer preferences.
+
 The coffee-heavy product mix aligns with the morning revenue concentration pattern. Coffee consumption is culturally associated with morning hours, which corresponds with the observed afternoon productivity decline.
 
 
