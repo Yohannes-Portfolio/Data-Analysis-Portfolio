@@ -19,6 +19,10 @@ Maven Roasters' transaction database as seen below consists of a single table wi
 
 Before analysis was begun data cleaning operations involved the elimination of duplicate transactions, the resolution of null fields in non-key fields, and date/range time validation to ensure consistency in the data.
 
+## Executive Overview
+
+Maven Roasters demonstrated strong growth momentum in H1 2023 (94% revenue increase, 106% transaction growth), but analysis of 135,116 transactions reveals untapped optimization potential. Three critical patterns emerged: (1) Extreme temporal concentration—49% of daily revenue occurs in just four hours (8-11am) with no variance between weekdays and weekends, (2) Product concentration—three items drive 35% of revenue while 40+ SKUs contribute just 23%, creating operational complexity, and (3) Transaction value gap—premium products generate 2x more revenue per customer ($8.62 vs $4.18) than budget items, yet systematic upselling is absent. Addressing these patterns through time-based operations, afternoon menu strategy, and upselling training represents significant revenue opportunity while leveraging existing customer base and product portfolio.
+
 ## Deep Dive Insights
 
 <img width="1539" height="225" alt="image" src="https://github.com/user-attachments/assets/ddad6b43-6b2f-4925-91c9-9de9251040a0" />
