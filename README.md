@@ -4,7 +4,7 @@ Maven Roasters, which started in 2018, is a specialty coffee outlet that caters 
 
 The company has seen record growth in the first half of 2023, with revenue growing 94% and transaction volume growing 106% over the first six months. In this growth explosion, the company now has gigantic amounts of transaction data that have not been leveraged before. In this project, six months of granular transaction data are extensively analyzed in an attempt to find key insights which will further propel this growth trend and reveal opportunities to further automate Maven Roasters' commercial success.
 
-## Insights and recommendations are presented in the following key areas:
+Insights and recommendations are presented in the following key areas:
 
 - Temporal Revenue Analysis: Analysis of sales patterns day-by-day and hour-by-hour to determine peak performing times to staff and inventory control.
 - Product-Level Performance: Analysis of product and category-level performance, top revenue drivers analysis, and portfolio optimization opportunity.
